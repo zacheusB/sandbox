@@ -1,0 +1,12 @@
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\bin\Debug\net6.0\BlazorTestProj.Shared.deps.json
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\bin\Debug\net6.0\BlazorTestProj.Shared.dll
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\bin\Debug\net6.0\BlazorTestProj.Shared.pdb
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\obj\Debug\net6.0\BlazorTestProj.Shared.csproj.AssemblyReference.cache
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\obj\Debug\net6.0\BlazorTestProj.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\obj\Debug\net6.0\BlazorTestProj.Shared.AssemblyInfoInputs.cache
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\obj\Debug\net6.0\BlazorTestProj.Shared.AssemblyInfo.cs
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\obj\Debug\net6.0\BlazorTestProj.Shared.csproj.CoreCompileInputs.cache
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\obj\Debug\net6.0\BlazorTestProj.Shared.dll
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\obj\Debug\net6.0\refint\BlazorTestProj.Shared.dll
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\obj\Debug\net6.0\BlazorTestProj.Shared.pdb
+C:\VS Projs\BlazorTestProj\BlazorTestProj\Shared\obj\Debug\net6.0\ref\BlazorTestProj.Shared.dll
