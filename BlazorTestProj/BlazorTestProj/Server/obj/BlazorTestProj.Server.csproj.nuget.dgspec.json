@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Server\\BlazorTestProj.Server.csproj": {}
+    "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Server\\BlazorTestProj.Server.csproj": {}
   },
   "projects": {
-    "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj": {
+    "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj",
+        "projectUniqueName": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj",
         "projectName": "BlazorTestProj.Client",
-        "projectPath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj",
+        "projectPath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj",
         "packagesPath": "C:\\Users\\ac56963\\.nuget\\packages\\",
-        "outputPath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Client\\obj\\",
+        "outputPath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ac56963\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj": {
-                "projectPath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj"
+              "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj": {
+                "projectPath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Server\\BlazorTestProj.Server.csproj": {
+    "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Server\\BlazorTestProj.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Server\\BlazorTestProj.Server.csproj",
+        "projectUniqueName": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Server\\BlazorTestProj.Server.csproj",
         "projectName": "BlazorTestProj.Server",
-        "projectPath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Server\\BlazorTestProj.Server.csproj",
+        "projectPath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Server\\BlazorTestProj.Server.csproj",
         "packagesPath": "C:\\Users\\ac56963\\.nuget\\packages\\",
-        "outputPath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Server\\obj\\",
+        "outputPath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ac56963\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,11 +112,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj": {
-                "projectPath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj"
+              "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj": {
+                "projectPath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj"
               },
-              "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj": {
-                "projectPath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj"
+              "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj": {
+                "projectPath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj": {
+    "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj",
+        "projectUniqueName": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj",
         "projectName": "BlazorTestProj.Shared",
-        "projectPath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj",
+        "projectPath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj",
         "packagesPath": "C:\\Users\\ac56963\\.nuget\\packages\\",
-        "outputPath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Shared\\obj\\",
+        "outputPath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ac56963\\AppData\\Roaming\\NuGet\\NuGet.Config",

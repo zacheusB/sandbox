@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj",
+      "projectUniqueName": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj",
       "projectName": "BlazorTestProj.Shared",
-      "projectPath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj",
+      "projectPath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Shared\\BlazorTestProj.Shared.csproj",
       "packagesPath": "C:\\Users\\ac56963\\.nuget\\packages\\",
-      "outputPath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Shared\\obj\\",
+      "outputPath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ac56963\\AppData\\Roaming\\NuGet\\NuGet.Config",

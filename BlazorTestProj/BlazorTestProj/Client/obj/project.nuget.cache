@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TcDKGYO9D8dOf2byQZysFpsHL8QIn1WLFp3f7yyJbDDakJC+sTP27zQdDyl412UAyHUJSNkxxceqzMn3pA1vRg==",
+  "dgSpecHash": "mw+aYJu03LOnUZ4A3rokbb5Rf/4aouFQ2PoVddenIPQKod+vw8FdnSdQ1p3hFWEnkJVoreAvH72nFkGqgOZk6Q==",
   "success": true,
-  "projectFilePath": "C:\\VS Projs\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj",
+  "projectFilePath": "C:\\VS Projs\\BlazorTestProj\\github saves\\BlazorTestProj\\BlazorTestProj\\Client\\BlazorTestProj.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ac56963\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.2\\microsoft.aspnetcore.authorization.6.0.2.nupkg.sha512",
     "C:\\Users\\ac56963\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.2\\microsoft.aspnetcore.components.6.0.2.nupkg.sha512",
